@@ -21,7 +21,7 @@
 
 <img src="https://github.com/nimi-soni/SAP-HR-ABAP-Projects/blob/main/HR_Projects/HR_ABAP%20(16).JPG">
 <img src="https://github.com/nimi-soni/SAP-HR-ABAP-Projects/blob/main/HR_Projects/HR_ABAP%20(17).JPG">
-<img src="https://github.com/nimi-soni/SAP-HR-ABAP-Projects/blob/main/HR_Projects/HR_ABAP%20(18).JPG">
+<img src="https://github.com/nimi-soni/SAP-HR-ABAP-Projects/blob/main/HR_Projects/HR_ABAP%20(18).jpg">
 <img src="https://github.com/nimi-soni/SAP-HR-ABAP-Projects/blob/main/HR_Projects/HR_ABAP%20(19).JPG">
 <img src="https://github.com/nimi-soni/SAP-HR-ABAP-Projects/blob/main/HR_Projects/HR_ABAP%20(20).JPG">
 
