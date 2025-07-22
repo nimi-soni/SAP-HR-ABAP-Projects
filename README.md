@@ -53,7 +53,7 @@
 <a href="https://raw.githubusercontent.com/nimi-soni/NimiSoni/refs/heads/main/SAP_Devs/HCM_Projects/HR_ABAP%20(17).JPG">
 <img src="https://github.com/nimi-soni/NimiSoni/blob/main/SAP_Devs/HCM_Projects/HR_ABAP%20(17).JPG"></a>
 
-<a href="https://raw.githubusercontent.com/nimi-soni/NimiSoni/refs/heads/main/SAP_Devs/HCM_Projects/HR_ABAP%20(18).JPG">
+<a href="https://raw.githubusercontent.com/nimi-soni/NimiSoni/refs/heads/main/SAP_Devs/HCM_Projects/HR_ABAP%20(18).jpg">
 <img src="https://raw.githubusercontent.com/nimi-soni/NimiSoni/refs/heads/main/SAP_Devs/HCM_Projects/HR_ABAP%20(18).jpg"></a>
 
 <a href="https://raw.githubusercontent.com/nimi-soni/NimiSoni/refs/heads/main/SAP_Devs/HCM_Projects/HR_ABAP%20(19).JPG">
